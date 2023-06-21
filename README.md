@@ -1,7 +1,7 @@
-# Partner_Selection_Copulas_Project 
+# Partner Selection Copulas Project 
 
 ## Description 
-* This a personal project that aims to create classes and functions that wil help the user identify pairs of stocks in order to implement a trading strategy regarding Vine Copulas.
+* This a personal project that creates classes and functions which enable the user to identify pairs of stocks in which to implement a trading strategy with Vine Copulas.
 
 ## Language
 * Python
