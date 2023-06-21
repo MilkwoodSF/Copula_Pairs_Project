@@ -35,11 +35,3 @@ class PartnersSelection:
         target_stock = df_corr_sort["Sum"].idxmax(axis=0)
         partners = df_corr_max.loc[target_stock].tolist()
         return (target_stock, partners)
-
-
-
-
-
-
-
-
